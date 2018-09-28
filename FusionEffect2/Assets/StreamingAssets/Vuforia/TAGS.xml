@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="agua_fogo" size="500.000000 254.065048" />
+    <ImageTarget name="fire_fire" size="500.000000 229.299362" />
+    <ImageTarget name="AR" size="500.000000 500.000000" />
+    <ImageTarget name="AGUA" size="500.000000 500.000000" />
+    <ImageTarget name="FOGO" size="500.000000 500.000000" />
+    <ImageTarget name="TERRA" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>
